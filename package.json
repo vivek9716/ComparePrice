@@ -1,0 +1,11 @@
+{
+  "name": "kp",
+  "version": "0.0.1",
+  "description": "This is a affilate project",
+  "main": "server.js",
+  "scripts": {
+    "test": "server"
+  },
+  "author": "",
+  "license": "ISC"
+}
